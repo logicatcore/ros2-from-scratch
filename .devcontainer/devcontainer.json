@@ -17,7 +17,7 @@
 		// X11 host
 		"--volume=/tmp/.X11-unix:/tmp/.X11-unix:rw",
 		// Wayland host
-		"--volume=/mnt/wslg:/mnt/wslg",
+		// "--volume=/mnt/wslg:/mnt/wslg",
 		"--ipc=host",
 		// uncomment to use intel iGPU
 		// "--device=/dev/dri"
