@@ -55,6 +55,7 @@
 				"ms-python.autopep8",
 				"ms-python.python",
 				"ms-vscode.cpptools",
+				"ms-vscode.cmake-tools",
 				"Ranch-Hand-Robotics.rde-pack",
 				"redhat.vscode-yaml",
 				"streetsidesoftware.code-spell-checker",
