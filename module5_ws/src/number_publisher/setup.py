@@ -25,6 +25,7 @@ setup(
     entry_points={
         'console_scripts': [
             'number_publisher = number_publisher.main_node:main',
+            'number_counter = number_publisher.number_counter:main',
         ],
     },
 )
